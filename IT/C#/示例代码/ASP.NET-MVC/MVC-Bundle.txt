@@ -1,0 +1,27 @@
+
+视图中遍历 Bundle 和所绑定文件: 
+
+    <ul>
+        @{
+
+            var resolver = new BundleResolver(BundleTable.Bundles);
+            foreach (Bundle item in BundleTable.Bundles)
+            {
+                <li>
+                    <span>虚拟路径: </span>@item.Path
+                    <ul>
+                        @{
+                            List<string> files = resolver.GetBundleContents(item.Path).ToList();
+                            foreach (var file in files)
+                            {
+                                <li>
+                                    @(file)
+                                </li>
+                            }
+                        }
+                    </ul>
+                </li>
+
+            }
+        }
+    </ul>
