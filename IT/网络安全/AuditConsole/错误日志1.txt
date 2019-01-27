@@ -1,0 +1,32 @@
+
+[Mon Jan 21 09:33:02 2019] [3] [5532/0] Configuring ModSecurity Audit Log Collector 2.9.3.
+[Mon Jan 21 09:33:02 2019] [3] [5532/0] Delaying execution for 5000ms.
+[Mon Jan 21 09:33:05 2019] [3] [4828/0] Configuring ModSecurity Audit Log Collector 2.9.3.
+[Mon Jan 21 09:33:05 2019] [3] [4828/0] Delaying execution for 5000ms.
+[Mon Jan 21 09:33:07 2019] [3] [5532/0] Loaded 3 entries from the queue file.
+[Mon Jan 21 09:33:07 2019] [2] [5532/23c1e97ecc8] Flagging server as errored after failure to submit entry XESL@PBDCvawEEeCvvpzKQAAAD8 (cURL code 35): schannel: next InitializeSecurityContext failed: SEC_E_INVALID_TOKEN (0x80090308) - 给函数提供的标志无效
+[Mon Jan 21 09:33:10 2019] [3] [4828/0] Loaded 3 entries from the queue file.
+[Mon Jan 21 09:33:10 2019] [2] [4828/264fc37ec08] Flagging server as errored after failure to submit entry XESL@PBDCvawEEeCvvpzKQAAAD8 (cURL code 35): schannel: next InitializeSecurityContext failed: SEC_E_INVALID_TOKEN (0x80090308) - 给函数提供的标志无效
+[Mon Jan 21 09:34:13 2019] [2] [5532/23c1e97ecc8] Flagging server as errored after failure to submit entry XESL@PBDCvawEEeCvvpzKQAAAD8 (cURL code 35): schannel: next InitializeSecurityContext failed: SEC_E_INVALID_TOKEN (0x80090308) - 给函数提供的标志无效
+[Mon Jan 21 22:57:30 2019] [2] [13280/22d7f8a4a58] Flagging server as errored after failure to submit entry XESL@PBDCvawEEeCvvpzKQAAAD8 (cURL code 35): schannel: next InitializeSecurityContext failed: SEC_E_INVALID_TOKEN (0x80090308) - 给函数提供的标志无效
+[Mon Jan 21 22:58:35 2019] [2] [13304/1ec6366ccf8] Flagging server as errored after failure to submit entry XESL@PBDCvawEEeCvvpzKQAAAD8 (cURL code 35): schannel: next InitializeSecurityContext failed: SEC_E_INVALID_TOKEN (0x80090308) - 给函数提供的标志无效
+[Mon Jan 21 22:58:36 2019] [2] [13280/22d7f8a4a58] Flagging server as errored after failure to submit entry XESL@PBDCvawEEeCvvpzKQAAAD8 (cURL code 35): schannel: next InitializeSecurityContext failed: SEC_E_INVALID_TOKEN (0x80090308) - 给函数提供的标志无效
+[Mon Jan 21 22:58:50 2019] [3] [13444/0] Configuring ModSecurity Audit Log Collector 2.9.3.
+[Mon Jan 21 22:58:50 2019] [3] [13444/0] Delaying execution for 5000ms.
+[Mon Jan 21 22:58:54 2019] [3] [4248/0] Configuring ModSecurity Audit Log Collector 2.9.3.
+[Mon Jan 21 22:58:54 2019] [3] [4248/0] Delaying execution for 5000ms.
+[Mon Jan 21 22:58:55 2019] [3] [13444/0] Loaded 3 entries from the queue file.
+[Mon Jan 21 22:58:56 2019] [2] [13444/25fff1d3bb8] Flagging server as errored after failure to submit entry XESL@PBDCvawEEeCvvpzKQAAAD8 with HTTP response code 403: 
+
+[Mon Jan 21 22:58:59 2019] [3] [4248/0] Loaded 3 entries from the queue file.
+
+[Mon Jan 21 22:58:59 2019] [2] [4248/1ef76410a48] Flagging server as errored after failure to submit entry XESL@PBDCvawEEeCvvpzKQAAAD8 with HTTP response code 403: 
+[Mon Jan 21 23:00:01 2019] [2] [13444/25fff1d3bb8] Flagging server as errored after failure to submit entry XESL@PBDCvawEEeCvvpzKQAAAD8 with HTTP response code 403: 
+[Mon Jan 21 23:00:04 2019] [2] [4248/1ef76410a48] Flagging server as errored after failure to submit entry XESL@PBDCvawEEeCvvpzKQAAAD8 with HTTP response code 403: 
+[Mon Jan 21 23:01:06 2019] [2] [13444/25fff1d3bb8] Flagging server as errored after failure to submit entry XESL@PBDCvawEEeCvvpzKQAAAD8 with HTTP response code 403: 
+[Mon Jan 21 23:01:09 2019] [2] [4248/1ef76410a48] Flagging server as errored after failure to submit entry XESL@PBDCvawEEeCvvpzKQAAAD8 with HTTP response code 403: 
+[Mon Jan 21 23:02:11 2019] [2] [13444/25fff1d3bb8] Flagging server as errored after failure to submit entry XESL@PBDCvawEEeCvvpzKQAAAD8 with HTTP response code 403: 
+[Mon Jan 21 23:02:14 2019] [2] [4248/1ef76410a48] Flagging server as errored after failure to submit entry XESL@PBDCvawEEeCvvpzKQAAAD8 with HTTP response code 403: 
+[Mon Jan 21 23:03:16 2019] [2] [13444/25fff1d3bb8] Flagging server as errored after failure to submit entry XESL@PBDCvawEEeCvvpzKQAAAD8 with HTTP response code 403: 
+
+[Mon Jan 21 23:03:19 2019] [2] [4248/1ef76410a48] Flagging server as errored after failure to submit entry XESL@PBDCvawEEeCvvpzKQAAAD8 with HTTP response code 403: 

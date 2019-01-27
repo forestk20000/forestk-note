@@ -1,0 +1,23 @@
+
+
+2019/1/18 15:42:02   
+
+apache mod_security 防止漏洞扫描和各种文件扫描
+
+http://xrcd2.blogspot.com/2012/10/modsecurity-apache.html
+再論 ModSecurity (如何保護 Apache ) 
+
+https://javascript.net.cn/article?id=442
+!!! Windows下，Apache安全防护WAF，安装配置mod_security模块
+
+https://blog.csdn.net/claytang/article/details/80066400
+如何安装配置Apache中的mod_security和mod_evasive
+
+
+https://www.feistyduck.com/library/modsecurity-handbook-free/online/ch02-installation.html
+
+AuditConsole
+https://jwall.org/AuditConsole/user-guide/ch01.html
+
+https://www.jianshu.com/p/1633fa8a8cbe
+ModSecurity 第一章　简介

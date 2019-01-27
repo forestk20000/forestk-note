@@ -1,0 +1,15 @@
+
+
+admin / admin
+admin-auditconsole
+
+Storage Engine :
+		jdbc:mysql://localhost:3306/auditconsole
+		
+Mail Settings:
+
+
+sensor				test
+
+
+http://localhost:8080/AuditConsole/rpc/auditLogReceiver
